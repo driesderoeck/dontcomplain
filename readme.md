@@ -6,7 +6,7 @@ If you want to reference or credit these files, a suggested way to do so is:
 
 "Don't complain... design by Dries De Roeck www.roeckoe.be"
 
-License of t
+The backstory to this project is captured on the crowdfunding page funded the inital printing round of this sticker: https://www.kickstarter.com/projects/driesdr/dont-complain-stickers-and-artprints-make100/
 
 ## Files in this package
 
