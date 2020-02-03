@@ -16,7 +16,7 @@ dontcomplain_gold : the type and layout used to print the GOLD sticker. This fil
 
 dontcomplain_regular : the type and layout used to print the REGULAR stickers. This files uses fontfaces Gilbert (CC Attribution Share Alike) and Zilla slab (OFL)
 
-All other graphics files that were created as part of the original crowdfunding campaign will not be made available under this GPL license. If you want to use other graphical assets, please get in touch though www.roeckoe.be.
+All other graphics files and artworks created as part of the original crowdfunding campaign will not be made available as part of these GPL licensed files. If you want to use other graphical assets, please get in touch via www.roeckoe.be.
 
 ## License
 
@@ -24,7 +24,7 @@ I'm releasing these assets under GPL, mostly because I would never want anyone t
 
 Copyright 2016 - 2018 Dries De Roeck
 
-These graphics files are free assets: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+These graphics files are free assets: you can redistribute them and/or modify them under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 These graphics files are distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
